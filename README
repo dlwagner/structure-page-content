@@ -1,0 +1,10 @@
+README
+
+This project is part of the Mozilla Learn Web Development series. The goal of this project was to demonstrate proper web page structuring. Most of the code in this project was provided. My job was to add in the structural elements so that the CSS style page would apply correctly to the html. The structural elements I added were the following:
+
+	- <header>
+	- <nav>
+	- <main>
+	- <article>
+	- <aside>
+	- <footer>
